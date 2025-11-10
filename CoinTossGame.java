@@ -1,5 +1,3 @@
-CoinTossGame.java
-
 package CoinToss;
 
 import java.util.Random;
